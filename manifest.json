@@ -1,7 +1,7 @@
 {
   "name": "Jump App",
   "short_name": "Jump",
-  "start_url": "/",
+  "start_url": "/jump-app/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ffffff"
