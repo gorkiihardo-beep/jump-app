@@ -1,0 +1,1 @@
+So this is my first app that I've ever made, and feel free to do whatever you want with it. This is just a little passion project because I want to be able to dunk, and this is all vibe coded by Claude because I don't know how to code. 
